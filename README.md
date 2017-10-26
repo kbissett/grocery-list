@@ -1,5 +1,5 @@
 fake Eggs
-cs
+3bs
 Sugar
 Yellow Cake Mix
 Vanilla Extract
