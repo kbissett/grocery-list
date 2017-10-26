@@ -1,3 +1,6 @@
-Errands
-Go to the Post Office
-Deposit rent in checking account
+Eggs
+Flour
+Sugar
+Yellow Cake Mix
+Vanilla Extract
+Frosting
